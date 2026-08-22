@@ -348,6 +348,12 @@
 
 ### Books
 
+- [Formula One Racing For Dummies](https://www.dummies.com/book/home-auto-hobbies/sports-recreation/auto-racing/formula-one-racing-for-dummies-281571/) - Beginner-friendly guide to F1 rules, race weekends, strategy, teams, drivers, and car basics.
+- [How to Win a Grand Prix](https://www.quercusbooks.co.uk/titles/bernie-collins/how-to-win-a-grand-prix/9781529437591/) - Bernie Collins explains F1 team operations, race preparation, and race-weekend strategy from an engineer and strategist's perspective.
+- [How to Build a Car](https://www.harpercollins.com/products/how-to-build-a-car-the-autobiography-of-the-worlds-greatest-formula-1-designer-adrian-newey) - Adrian Newey's technical memoir on F1 car design, aerodynamics, regulation interpretation, and engineering tradeoffs.
+- [Total Competition](https://www.simonandschuster.co.uk/books/Total-Competition/Ross-Brawn/9781471162381) - Ross Brawn and Adam Parr on F1 strategy, leadership, team building, and sustaining competitive advantage.
+- [Race Car Vehicle Dynamics](https://www.sae.org/books/race-car-vehicle-dynamics-r-146) - Canonical motorsport engineering reference on tyres, load transfer, suspension, handling, and race-car dynamics.
+- [Formula 1: The Official History (2024)](https://www.hachette.co.uk/titles/maurice-hamilton/formula-1-the-official-history-2024/9781802797787/) - Official illustrated history covering F1's teams, drivers, rule changes, safety evolution, and major eras.
 - [Wrangling F1 Data With R](https://leanpub.com/wranglingf1datawithr) - Book by Tony Hirst on F1 data manipulation and charting in R.
 - [Wrangling F1 Data With Python](https://f1datajunkie.github.io/wranglingf1datawithpython/index.html) - Companion book covering FastF1 demos and Python workflows.
 
