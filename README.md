@@ -328,6 +328,9 @@
 - **GT7**
   - [gt7dashboard](https://github.com/snipem/gt7dashboard) - Live dashboard for GT7 with lap comparison and performance analysis.
 
+- **GPRO (Grand Prix Racing Online)**
+  - [GPRO Calculator](https://gprocalc.com/) - Unofficial fan-made race engineer for the GPRO browser manager game: car setup for Q1/Q2/race, fuel per stint, tyre strategy and pit stops, post-race analysis. Web app, 5 languages, first races free.
+
 ## Cross-Series and General Motorsport
 
 - [TheSportsDB](https://www.thesportsdb.com/) - Broad sports API with useful motorsport coverage.
